@@ -2,6 +2,10 @@ import pyttsx3  #pip install pyttsx3
 import datetime  #module
 import speech_recognition as sr
 import wikipedia
+#How to install pyaudio
+#pip install pipwin
+#then
+#pipwin install pyaudio
 import smtplib
 import webbrowser as wb
 import os  #inbuilt
